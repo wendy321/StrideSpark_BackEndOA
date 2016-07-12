@@ -1,0 +1,6 @@
+add 1 2
+add 2 3
+add 3 4
+is linked 3 1
+remove 3 4
+is linked 1 4
