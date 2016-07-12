@@ -17,6 +17,7 @@ There 2 ways to run the code:
 	2. Double click the run.jar file. It will generate the output file.
 
 (2) Second way:
+	
 	1. Import the project, MaintainAndTraverseAGraph file, into Eclipse.
 
 	2. Run-Java-Application. It will run the default 3 test cases.
